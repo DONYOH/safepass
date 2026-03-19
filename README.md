@@ -1,18 +1,18 @@
 
-# 🛂 Projet d'école - SafePass France
+# Projet d'école - SafePass France
 
 > **Le premier assistant administratif digital pour étudiants étrangers en France.**  
 > De l'aéroport à votre premier emploi — zéro oubli, zéro stress.
 
 ---
 
-## 📌 À propos du projet
+## À propos du projet
 
 SafePass France est une plateforme digitale d'accompagnement administratif destinée aux étudiants étrangers arrivant en France. Elle centralise toutes les démarches — visa, CAF, Ameli, préfecture, titre de séjour — en un seul tableau de bord personnalisé et intelligent.
 
 ---
 
-## 🎯 Le problème
+## Le problème
 
 L'administration française est un labyrinthe pour un étudiant international :
 
@@ -24,7 +24,7 @@ L'administration française est un labyrinthe pour un étudiant international :
 
 ---
 
-## ✅ La solution
+## La solution
 
 SafePass guide l'étudiant **de son arrivée en France jusqu'à son premier emploi**, en 4 étapes clés :
 
@@ -37,18 +37,18 @@ SafePass guide l'étudiant **de son arrivée en France jusqu'à son premier empl
 
 ---
 
-## ⚡ Fonctionnalités clés
+##  Fonctionnalités clés
 
-- 🔔 **Alertes prédictives** — Prévenu 3 mois avant chaque échéance critique
-- 🔄 **Recalcul dynamique** — Le parcours s'adapte automatiquement à chaque changement de situation
-- 🗂️ **Centralisation multi-services** — CAF, Ameli, Préfecture, France Travail au même endroit
-- 🔐 **Coffre-fort numérique** — Données chiffrées, conformes RGPD
-- 🤖 **Chatbot d'assistance** — Disponible en permanence pour répondre aux questions
-- 📱 **Mobile-first** — Pensé pour la génération smartphone
+-  **Alertes prédictives** — Prévenu 3 mois avant chaque échéance critique
+-  **Recalcul dynamique** — Le parcours s'adapte automatiquement à chaque changement de situation
+-  **Centralisation multi-services** — CAF, Ameli, Préfecture, France Travail au même endroit
+-  **Coffre-fort numérique** — Données chiffrées, conformes RGPD
+-  **Chatbot d'assistance** — Disponible en permanence pour répondre aux questions
+-  **Mobile-first** — Pensé pour la génération smartphone
 
 ---
 
-## 💶 Modèle économique
+## Modèle économique
 
 > **Gratuit les 2 premiers mois. Puis dégressif selon l'ancienneté.**
 
@@ -63,7 +63,7 @@ La réduction s'applique automatiquement — aucune démarche requise. Résiliab
 
 ---
 
-## 👤 Cible utilisateur
+## Cible utilisateur
 
 **Persona principal : Yasmine, 22 ans, Maroc**
 
@@ -77,7 +77,7 @@ La réduction s'applique automatiquement — aucune démarche requise. Résiliab
 
 ---
 
-## 🏆 Différenciateurs
+## Différenciateurs
 
 | SafePass | Guides classiques / Sites gouvernementaux |
 |---|---|
@@ -88,7 +88,7 @@ La réduction s'applique automatiquement — aucune démarche requise. Résiliab
 
 ---
 
-## 🧭 Notre histoire
+## Notre histoire
 
 SafePass est né de l'expérience de **trois anciens étudiants internationaux** qui ont failli perdre leurs droits à cause d'un simple changement d'adresse mal déclaré.
 
@@ -116,6 +116,6 @@ SafePass est né de l'expérience de **trois anciens étudiants internationaux**
 
 ---
 
-## 📄 Licence
+## Licence
 
 Projet propriétaire — © 2025 SafePass France. Tous droits réservés.
