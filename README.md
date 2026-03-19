@@ -1,5 +1,5 @@
 
-# 🛂 Projet de marketing digital - SafePass France
+# 🛂 Projet d'école - SafePass France
 
 > **Le premier assistant administratif digital pour étudiants étrangers en France.**  
 > De l'aéroport à votre premier emploi — zéro oubli, zéro stress.
